@@ -13,8 +13,9 @@ This project demonstrates how to upload images and post a tweet with those image
 1.  **Clone the repository (or create a new project):**
 
     ```bash
-    git clone <repository_url>
-    cd <project_directory>
+    git clone https://github.com/abhinavrajdevx/twitter-post-api-v1-and-v2-node
+    cd twitter-post-api-v1-and-v2-node
+
     ```
 
 2.  **Install dependencies:**
